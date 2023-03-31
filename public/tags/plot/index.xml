@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>plot - Tag - Yama Chang</title>
+        <title>plot - Tag - Yama Chang&#39;s Portfolio</title>
         <link>/tags/plot/</link>
-        <description>plot - Tag - Yama Chang</description>
+        <description>plot - Tag - Yama Chang&#39;s Portfolio</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/tags/plot/" rel="self" type="application/rss+xml" /><item>
     <title>Hello R Markdown</title>
     <link>/2020-12-01-r-rmarkdown/</link>

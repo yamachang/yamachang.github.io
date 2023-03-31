@@ -1,5 +1,5 @@
 ---
-author: Dillon
+author: Yama Chang
 authorLink: https://dillonzq.com
 categories:
 - documentation
@@ -14,8 +14,7 @@ resources:
 - name: featured-image
   src: featured-image.jpg
 tags:
-- installation
-- configuration
+- Machine Learning
 title: Theme Documentation - Basics
 toc:
   auto: false

@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/theme-documentation-basics/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/theme-documentation-basics/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/theme-documentation-basics/"
@@ -11,7 +11,7 @@
                     hreflang="en"
                     href="/theme-documentation-basics/"
                     /></url><url>
-            <loc>/theme-documentation-content/</loc><lastmod>2020-03-05T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/theme-documentation-content/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/theme-documentation-content/"
@@ -20,7 +20,7 @@
                     hreflang="en"
                     href="/theme-documentation-content/"
                     /></url><url>
-            <loc>/theme-documentation-built-in-shortcodes/</loc><lastmod>2020-03-04T16:29:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/theme-documentation-built-in-shortcodes/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/theme-documentation-built-in-shortcodes/"
@@ -29,7 +29,7 @@
                     hreflang="en"
                     href="/theme-documentation-built-in-shortcodes/"
                     /></url><url>
-            <loc>/theme-documentation-extended-shortcodes/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/theme-documentation-extended-shortcodes/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/theme-documentation-extended-shortcodes/"
@@ -38,7 +38,7 @@
                     hreflang="en"
                     href="/theme-documentation-extended-shortcodes/"
                     /></url><url>
-            <loc>/basic-markdown-syntax/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/basic-markdown-syntax/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/basic-markdown-syntax/"
@@ -47,7 +47,7 @@
                     hreflang="en"
                     href="/basic-markdown-syntax/"
                     /></url><url>
-            <loc>/theme-documentation-mermaid-shortcode/</loc><lastmod>2020-03-03T15:29:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/theme-documentation-mermaid-shortcode/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/theme-documentation-mermaid-shortcode/"
@@ -56,7 +56,7 @@
                     hreflang="en"
                     href="/theme-documentation-mermaid-shortcode/"
                     /></url><url>
-            <loc>/emoji-support/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/emoji-support/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/emoji-support/"
@@ -65,7 +65,7 @@
                     hreflang="en"
                     href="/emoji-support/"
                     /></url><url>
-            <loc>/theme-documentation-echarts-shortcode/</loc><lastmod>2020-03-03T14:29:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/theme-documentation-echarts-shortcode/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/theme-documentation-echarts-shortcode/"
@@ -74,7 +74,7 @@
                     hreflang="en"
                     href="/theme-documentation-echarts-shortcode/"
                     /></url><url>
-            <loc>/theme-documentation-mapbox-shortcode/</loc><lastmod>2020-03-03T13:29:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/theme-documentation-mapbox-shortcode/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/theme-documentation-mapbox-shortcode/"
@@ -83,7 +83,7 @@
                     hreflang="en"
                     href="/theme-documentation-mapbox-shortcode/"
                     /></url><url>
-            <loc>/theme-documentation-music-shortcode/</loc><lastmod>2020-03-03T12:29:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/theme-documentation-music-shortcode/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/theme-documentation-music-shortcode/"
@@ -92,7 +92,7 @@
                     hreflang="en"
                     href="/theme-documentation-music-shortcode/"
                     /></url><url>
-            <loc>/theme-documentation-bilibili-shortcode/</loc><lastmod>2020-03-03T12:29:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/theme-documentation-bilibili-shortcode/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/theme-documentation-bilibili-shortcode/"
@@ -101,7 +101,7 @@
                     hreflang="en"
                     href="/theme-documentation-bilibili-shortcode/"
                     /></url><url>
-            <loc>/theme-documentation-typeit-shortcode/</loc><lastmod>2020-03-03T10:29:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/theme-documentation-typeit-shortcode/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/theme-documentation-typeit-shortcode/"
@@ -110,7 +110,7 @@
                     hreflang="en"
                     href="/theme-documentation-typeit-shortcode/"
                     /></url><url>
-            <loc>/categories/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/categories/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/categories/"
@@ -119,9 +119,9 @@
                     hreflang="en"
                     href="/categories/"
                     /></url><url>
-            <loc>/2020-12-01-r-rmarkdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/plot/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/posts/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/2020-12-01-r-rmarkdown/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/plot/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/posts/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/posts/"
@@ -130,10 +130,10 @@
                     hreflang="en"
                     href="/posts/"
                     /></url><url>
-            <loc>/categories/r/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/r-markdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/regression/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/categories/r/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/r-markdown/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/regression/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/tags/"
@@ -142,7 +142,7 @@
                     hreflang="en"
                     href="/tags/"
                     /></url><url>
-            <loc>/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/"
@@ -151,7 +151,7 @@
                     hreflang="en"
                     href="/"
                     /></url><url>
-            <loc>/tags/configuration/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/tags/configuration/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/tags/configuration/"
@@ -160,16 +160,7 @@
                     hreflang="en"
                     href="/tags/configuration/"
                     /></url><url>
-            <loc>/categories/documentation/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/categories/documentation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/categories/documentation/"
-                    /></url><url>
-            <loc>/tags/installation/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/tags/installation/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/tags/installation/"
@@ -178,7 +169,7 @@
                     hreflang="en"
                     href="/tags/installation/"
                     /></url><url>
-            <loc>/tags/content/</loc><lastmod>2020-03-05T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/tags/content/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/tags/content/"
@@ -187,7 +178,7 @@
                     hreflang="en"
                     href="/tags/content/"
                     /></url><url>
-            <loc>/tags/markdown/</loc><lastmod>2020-03-05T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/tags/markdown/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/tags/markdown/"
@@ -196,7 +187,7 @@
                     hreflang="en"
                     href="/tags/markdown/"
                     /></url><url>
-            <loc>/tags/shortcodes/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/tags/shortcodes/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/tags/shortcodes/"
@@ -205,7 +196,7 @@
                     hreflang="en"
                     href="/tags/shortcodes/"
                     /></url><url>
-            <loc>/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/tags/html/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/tags/html/"
@@ -214,7 +205,7 @@
                     hreflang="en"
                     href="/tags/html/"
                     /></url><url>
-            <loc>/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/categories/markdown/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/categories/markdown/"
@@ -223,7 +214,7 @@
                     hreflang="en"
                     href="/categories/markdown/"
                     /></url><url>
-            <loc>/tags/emoji/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/tags/emoji/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/tags/emoji/"
@@ -232,7 +223,7 @@
                     hreflang="en"
                     href="/tags/emoji/"
                     /></url><url>
-            <loc>/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/about/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/about/"
@@ -240,4 +231,13 @@
                     rel="alternate"
                     hreflang="en"
                     href="/about/"
+                    /></url><url>
+            <loc>/categories/documentation/</loc><lastmod>2023-03-29T12:32:40-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/categories/documentation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/categories/documentation/"
                     /></url></urlset>
