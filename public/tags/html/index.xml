@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>HTML - Tag - Yama Chang&#39;s Portfolio</title>
-        <link>/tags/html/</link>
+        <link>https://yama-chang.netlify.app/tags/html/</link>
         <description>HTML - Tag - Yama Chang&#39;s Portfolio</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="/tags/html/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>yc3508@tc.columbia.edu (Yama Chang)</managingEditor>
+            <webMaster>yc3508@tc.columbia.edu (Yama Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://yama-chang.netlify.app/tags/html/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Markdown Syntax</title>
-    <link>/basic-markdown-syntax/</link>
+    <link>https://yama-chang.netlify.app/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>/basic-markdown-syntax/</guid>
+    <guid>https://yama-chang.netlify.app/basic-markdown-syntax/</guid>
     <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
 </item>
 </channel>

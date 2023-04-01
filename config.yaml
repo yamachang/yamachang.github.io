@@ -22,7 +22,7 @@ author:
 menu:
   main:
     - identifier: posts
-      name: Posts
+      name: Data Projects
       post: ''
       pre: ''
       title: ''
@@ -78,11 +78,11 @@ params:
   description: 
   fingerprint: ''
   footer:
-    author: ''
+    author: true
     copyright: ''
     custom: ''
     enable: ''
-    hugo: ''
+    hugo: false
     icp: ''
     license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/"
       target="_blank">CC BY-NC 4.0</a>
@@ -94,8 +94,8 @@ params:
     title:
       logo: ''
       name: Yama Chang
-      post: ''
-      pre: 
+      post: '' 
+      pre: "<i class='fas fa-user-astronaut fa-fw' aria-hidden='false'></i>"
       typeit: no
   home:
     posts:
@@ -107,7 +107,7 @@ params:
       enable: yes
       gravatarEmail: ''
       social: yes
-      subtitle: Interests = [Data, Meditation🧘‍♀️, Cats]
+      subtitle: ''
       title: ''
       typeit: yes
     rss: 10
@@ -214,8 +214,8 @@ params:
     seo:
       images: []
       publisher:
-        logoUrl: /images/avatar.png
-        name: xxxx
+        logoUrl: /images/avatar.jpg
+        name: Yama Chang
     share:
       Baidu: no
       Blogger: no
@@ -223,10 +223,10 @@ params:
       Evernote: no
       Facebook: yes
       Flipboard: no
-      HackerNews: yes
+      HackerNews: no
       Instapaper: no
       Line: yes
-      Linkedin: no
+      Linkedin: yes
       Mix: no
       Odnoklassniki: no
       Pinterest: no
@@ -237,7 +237,7 @@ params:
       Tumblr: no
       Twitter: yes
       VK: no
-      Weibo: yes
+      Weibo: no
       Whatsapp: no
       Xing: no
       enable: yes
@@ -419,14 +419,14 @@ languages:
     menu:
       main:
         - identifier: about
-          name: About
+          name: About me
           post: ''
           pre: ''
           title: ''
           url: /about/
           weight: 1
         - identifier: posts
-          name: Posts
+          name: Data Projects
           post: ''
           pre: ''
           title: ''
@@ -468,7 +468,7 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: Hello! Welcome to my data portfolio.
+          subtitle: Hello! Welcome to my data portfolio. <br/> Please scroll down to see my projects.
           title: ''
           typeit: yes
         rss: 10
@@ -490,7 +490,6 @@ languages:
         LinkedIn: yama-yw-chang
         Email: yc3508@tc.columbia.edu
         Facebook: ''
-        GitHub: yamachang
         Instagram: ''
         Mastodon: ''
         Phone: ''
