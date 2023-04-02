@@ -468,7 +468,7 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: Hello! Welcome to my data portfolio. <br/> Please scroll down to see my projects. 
+          subtitle: Hello! Welcome to my data portfolio. <br/> Please scroll down to see my selected projects in <br/> data science, machine learning and analytics.
           title: ''
           typeit: yes
         rss: 10
