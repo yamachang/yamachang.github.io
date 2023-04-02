@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Documentation - Category - Yama Chang&#39;s Portfolio</title>
+        <link>https://yama-chang.netlify.app/categories/projects/</link>
+        <description>Documentation - Category - Yama Chang&#39;s Portfolio</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>yc3508@tc.columbia.edu (Yama Chang)</managingEditor>
+            <webMaster>yc3508@tc.columbia.edu (Yama Chang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 09 Dec 2022 03:33:33 &#43;0800</lastBuildDate><atom:link href="https://yama-chang.netlify.app/categories/projects/" rel="self" type="application/rss+xml" /><item>
+    <title>Geospatial analysis of effectiveness of digital intervention in the rural U.S.</title>
+    <link>https://yama-chang.netlify.app/post-project-rurality/</link>
+    <pubDate>Fri, 09 Dec 2022 03:33:33 &#43;0800</pubDate>
+    <author>Yama Chang</author>
+    <guid>https://yama-chang.netlify.app/post-project-rurality/</guid>
+    <description><![CDATA[<p>In this project, I visualized data to investigate the effectiveness of utilizing social media-based advertisements and content for the purpose of involving rural adolescents experiencing increased depression symptoms in a randomized trial examining single-session interventions.</p>]]></description>
+</item>
+</channel>
+</rss>

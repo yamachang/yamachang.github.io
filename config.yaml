@@ -424,14 +424,14 @@ languages:
           pre: ''
           title: ''
           url: /about/
-          weight: 1
+          weight: 2
         - identifier: posts
           name: Data Projects
           post: ''
           pre: ''
           title: ''
           url: /posts/
-          weight: 2
+          weight: 3
 #        - identifier: tags
 #          name: Tags
 #          post: ''
@@ -446,20 +446,20 @@ languages:
 #          title: ''
 #          url: /categories/
 #          weight: ''
-#        - identifier: documentation
-#          name: Docs
-#          post: ''
-#          pre: ''
-#          title: ''
-#          url: /categories/documentation/
-#          weight: ''
+        - identifier: documentation
+          name: Resume
+          post: ''
+          pre: ''
+          title: ''
+          url: https://yamaychang.me/files/cv.pdf
+          weight: 4
         - identifier: github
           name: ''
           post: ''
           pre: <i class='fab fa-github fa-fw' aria-hidden='true'></i>
           title: GitHub
           url: https://github.com/yamachang
-          weight: 6
+          weight: 5
     params:
       home:
         profile:
@@ -468,7 +468,7 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: Hello! Welcome to my data portfolio. <br/> Please scroll down to see my projects.
+          subtitle: Hello! Welcome to my data portfolio. <br/> Please scroll down to see my projects. 
           title: ''
           typeit: yes
         rss: 10
