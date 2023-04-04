@@ -1,7 +1,7 @@
 # Geospatial analysis of effectiveness of digital intervention in the rural U.S.
 
 
-In this project, I visualized data to investigate the effectiveness of utilizing social media-based advertisements and content for the purpose of involving rural adolescents experiencing increased depression symptoms in a randomized trial examining single-session interventions.
+In this project, I visualized data to investigate the effectiveness of utilizing social media-based advertisements and content for the purpose of involving rural adolescents experiencing increased depression symptoms in a randomized trial examining single-session interventions (SSIs).
 
 <!--more-->
 
@@ -13,22 +13,21 @@ Using data from [a previously-completed clinical trial](https://osf.io/8mk6x/), 
 
 ## 2 Workflow
 
-* apple-touch-icon.png (180x180)
-* favicon-32x32.png (32x32)
-* favicon-16x16.png (16x16)
-* mstile-150x150.png (150x150)
-* android-chrome-192x192.png (192x192)
-* android-chrome-512x512.png (512x512)
+* Import and preprocess data from the clinical trial
+* Import and preprocess county-level map data
+* Combine datasets
+* Visualize the map with county-level distribution
+* Statistical analysis
 
 ## 3 Visualization & Analysis!
 
 ### 3-1 Visualization 
 
-In this project, I utilized the maps package to obtain comprehensive U.S. map data, encompassing information on continents, countries, and states. Subsequently, I employed the geom_polygon() function from the ggplot2 package to create a detailed visualization of the U.S. map, which included the delineation of regional boundaries.
+In this project, I utilized the `maps` package to obtain comprehensive U.S. map data, encompassing information on continents, countries, and states. Subsequently, I employed the `geom_polygon()` function from the ggplot2 package to create a detailed visualization of the U.S. map, which included the delineation of regional boundaries.
 
 The project's repository is: https://github.com/yamachang/cope_rurality.
 
-Please open the code block below to view the code for using `ggplot()` to create a U.S. map here :(far fa-hand-point-down fa-fw)::
+Please open the code block below to view the code for visualizing U.S. map here :(far fa-hand-point-down fa-fw)::
 
 ```r
 ### Plotting!
@@ -47,9 +46,15 @@ plot_rucc2013 <- ggplot(map_df_usa1, aes(x = Longitude, y = Latitude, group = gr
         plot.margin = margin(t = 0, r = 0, b = 0, l = 20, unit = "pt"))
         
 ```
-### 3-2 Analysis
 
-## 4 What I learned
+![Figure 1](featured-image.jpg "Figure 1. Geographic Representation of Sample Rurality") 
+
+### 3-2 Statistical Analysis
+
+To evaluate the treatment effectiveness of digital single-session interventions (SSIs) on depressive symptoms among rural and urban adolescents, I modeled the change in depressive symptoms assessed at baseline and at a 3-month follow-up. The chosen model was multiple linear regression, which included rurality (assessed continuously), type of intervention (across three levels), demographic covariates, and the interaction of rurality with depression scores at baseline as predictors of depressive symptom severity from baseline to the 3-month follow-up (i.e., rurality x baseline depression scores).
+
+![Figure 1](figure2.jpg "Figure 2. Digital single-session interventions (SSIs) on depressive symptoms as moderated by rurality at 3-month follow up") 
+
 
 
 
