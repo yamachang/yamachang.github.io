@@ -7,7 +7,7 @@ images:
 lightgallery: true
 math:
   enable: true
-title: About me
+title: About
 ---
 
 ![Yama Chang](/images/workstation.jpg "Data is fun. :)")
