@@ -468,7 +468,7 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: Hello! Glad to see you here. <br/> Please scroll down to see my selected projects in <br/> data science, machine learning and analytics.
+          subtitle: Hello! <br/> Please scroll down to see my selected projects in <br/> data science, machine learning and analytics.
           title: ''
           typeit: yes
         rss: 10
