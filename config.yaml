@@ -451,7 +451,7 @@ languages:
           post: ''
           pre: ''
           title: ''
-          url: "static/Yama-Chang-DS-resume.pdf"
+          url: "Yama-Chang-DS-resume.pdf"
           weight: 4
         - identifier: github
           name: ''
