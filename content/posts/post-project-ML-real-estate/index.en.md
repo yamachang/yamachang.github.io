@@ -37,11 +37,17 @@ To explore the project in detail, please visit the ML-real-estate-prediction Git
 
 <!--more-->
 
-## 0 Overview
+## 0 Overview & Workflow
 
 {{< admonition tip "Problem that I tried to solve:" >}}
 Can we build a model to better predict transaction prices of real estate prices?
 {{< /admonition >}}
+
+* Business Background
+* Machine Learning Background
+* Exploratory Data Analysis / Data Cleaning / Feature Engineering
+* Predicting House Prices using Regression Models
+* Takeaways and Next Steps
 
 ## 1 Business Background
 
@@ -63,6 +69,43 @@ I performed data cleaning, exploratory data analysis, and feature engineering us
 
 The repository for this project is: https://github.com/yamachang/ML-real-estate-prediction.git.
 
+### Summary Statistics
+
+**Preliminary analysis and visualizations were conducted to gain insights into the data. Here are some of the key findings:**
+
+* **Histograms** were used to understand the distribution of variables and identify any sparse data.
+  
+<p align="center">
+  <img src="plots/histogram.png" alt="Plot 1" style="width:800px;height:800px;">
+</p>
+
+* **Box plots** were employed to examine the relationship between categorical and numeric features. In general, it looks like single family homes are more expensive than apartments.
+
+<p align="center">
+  <img src="plots/boxplot.png" alt="Plot 2" style="width:600px;height:350px;">
+</p>
+  
+* **The correlation matrix** was visualized to explore the relationships between numeric features.
+
+<p align="center">
+  <img src="plots/heatmap.png" alt="Plot 3" style="width:850px;height:750px;">
+</p>
+
+**Next, we aimed to perform data cleaning tasks, which involved **grouping sparse data** to mitigate overfitting and **checking for outliers**.**
+
+* **Grouping sparse data**: For categorical features, we reduced the number of items in `exterior_walls` from 16 to 8, and in `roof` from 16 to 5.
+
+<div style="display:flex; justify-content:center;">
+  <img src="plots/bar-plot-walls.png" alt="Plot 4" style="width:500px;height:350px; margin-right: 10px;">
+  <img src="plots/bar-plot-roof.png" alt="Plot 5" style="width:500px;height:350px; margin-left: 10px;">
+</div>
+
+* **Checking for outliers**: It looks like `lot_size` has a potential outlier as it has a long and skinny tail, and we decided to remove observations with `lot_size` greater than 500,000 sqft for outliers.
+
+<p align="center">
+  <img src="plots/violin-plot-lotsize.png" alt="Plot 6" style="width:500px;height:400px;">
+</p>
+
 <!--Please open the code block below to view the code for visualizing U.S. map here : -->
 
 <!--```r
@@ -70,10 +113,32 @@ The repository for this project is: https://github.com/yamachang/ML-real-estate-
         
 ```-->
 
-![Figure 1](featured-image.jpg "Figure 1. 2022 U.S. County-Level Structural Stigma Index Map: Highlighting LGBTQ+ Discrimination") 
+## 4 Predicting House Prices using Regression Models
+
+Regression analysis was chosen as the optimal approach for predicting continuous house prices based on multiple independent variables.
+
+Prior to training the models, preprocessing was performed. Standardization, a common technique in machine learning, was applied to ensure all features were on the same scale. This involved subtracting means and dividing by standard deviations. The preprocessing step was included in cross-validation.
+
+After splitting the data into training and test sets, the training set was used to train three types of regression models (Ridge, Lasso, and Elastic Net Regression) as well as two ensembling models (Random Forest and Gradient Boosting Trees).
+
+Next, hyperparameters for each model were tuned accordingly before fitting the training model. For Lasso and Ridge regularized regression, the strength of the penalty was the most impactful hyperparameter. In the case of Elastic Nets, tuning was done for the alpha parameter, along with the addition of a new hyperparameter called `l1_ratio`. For Random Forest, the number of decision trees (`n_estimators`) and the maximum number of features each tree can choose from (`max_features`) were tuned. Lastly, for Gradient Boosting Trees, tuning was done for `n_estimators`, `learning_rate`, and `max_depth`.
+
+The evaluation of the models is shown in the plot below:
+
+<p align="left">
+  <img src="plots/model-metrics.png" alt="Plot 7" style="width:300px;height:250px;">
+</p>
+
+Analyzing the metrics, we observed that Random Forest achieved the highest R2 score and the lowest MAE. While Gradient Boosting Tree showed the best holdout R2 score during cross-validation, Random Forest's performance was only slightly lower. Importantly, Random Forest met the win condition of the project with an MAE below $70,000.
+
+In conclusion, let's visualize the performance of the winning model on the test set.
+
+<p align="left">
+  <img src="plots/performance.png" alt="Plot 8" style="width:500px;height:400px;">
+</p>
 
 
-## 5 Conclusion
+## 5 Takeaways and Next Steps
 
 The ML-real-estate-prediction project aimed to develop a model to predict transaction prices for real estate properties. By leveraging regression models and extensive data analysis, we successfully achieved a model with an MAE below the project's win condition of $70,000. Here are some key takeaways:
 
