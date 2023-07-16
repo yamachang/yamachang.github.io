@@ -25,8 +25,6 @@ toc:
 weight: 1
 ---
 
-![Figure 1](featured-image.jpg "Real Estate Prices Prediction") 
-
 In this project, I developed a machine learning model to accurately predict transaction prices for real estate properties in New York State. Leveraging regression models and extensive data analysis, the goal was to achieve a model with a mean absolute error (MAE) below the project's win condition of $70,000.
 
 The project involved comprehensive data cleaning, exploratory data analysis, and feature engineering to ensure high-quality input data for the models. Various regression algorithms, including Lasso, Ridge, Elastic Net, Random Forest, and Gradient Boosting Trees, were trained and evaluated for their prediction performance.
