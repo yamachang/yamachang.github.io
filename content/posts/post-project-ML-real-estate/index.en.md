@@ -37,17 +37,11 @@ To explore the project in detail, please visit the ML-real-estate-prediction Git
 
 <!--more-->
 
-## 0 Overview & Workflow
+## 0 Overview
 
 {{< admonition tip "Problem that I tried to solve:" >}}
 Can we build a model to better predict transaction prices of real estate prices?
 {{< /admonition >}}
-
-* Business Background
-* Machine Learning Background
-* Exploratory Data Analysis / Data Cleaning / Feature Engineering
-* Predicting House Prices using Regression Models
-* Takeaways and Next Steps
 
 ## 1 Business Background
 
