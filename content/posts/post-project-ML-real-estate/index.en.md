@@ -75,13 +75,26 @@ The repository for this project is: https://github.com/yamachang/ML-real-estate-
 
 ## 5 Conclusion
 
-In undertaking this data science project, I gained valuable insights into the quantification of discrimination, particularly the attitudinal structural stigma faced by the LGBTQ+ community at the county level in the U.S. This project represents a unique approach, utilizing open, real-world data and applying data science techniques such as Confirmatory Factor Analysis. Through this process, I discovered that existing research often fails to capture the diversity within larger geographical regions, emphasizing the significance of local analyses.
+The ML-real-estate-prediction project aimed to develop a model to predict transaction prices for real estate properties. By leveraging regression models and extensive data analysis, we successfully achieved a model with an MAE below the project's win condition of $70,000. Here are some key takeaways:
 
-One of the key findings of this project was the substantial variation in attitudes within the same state. This highlights the importance of delving into local contexts to understand the nuanced dynamics of structural stigma. By employing innovative visualization techniques, I transformed complex data into a comprehensive U.S. map, making the patterns and disparities in attitudes easily interpretable.
+*Data Science Perspective*:
 
-Engaging in this project has deepened my understanding of the pivotal role data science plays in uncovering and addressing social issues. By shedding light on the attitudinal structural stigma experienced by the LGBTQ+ community, this project serves as a testament to the power of data-driven insights and their potential for meaningful real-world applications.
+* Random Forest emerged as the top-performing model, showcasing the highest R2 score and lowest MAE.
+* Careful feature engineering, including creating new features and grouping sparse classes, improved prediction performance.
+* Preprocessing steps, such as standardization and outlier handling, addressed overfitting and ensured reliable generalization.
 
-Through the creative design and successful execution of this project, I have not only expanded my skill set in data science but also gained a profound appreciation for the importance of diversity, inclusion, and the need to challenge structural discrimination. This project has further solidified my commitment to leveraging data science as a catalyst for positive change in society.
+*Business Perspective*:
 
+* Improved Pricing Strategy: Accurate predictions optimize pricing decisions, maximizing profits and competitiveness.
+* Risk Mitigation: Accurate estimates aid in informed investment decisions, minimizing overpaying or undervaluing properties.
+* Cost Reduction: Accurate predictions reduce the need for costly manual appraisals, streamlining operations.
 
+*Next Steps*:
 
+* Deploy the Winning Model: Deploy the trained Random Forest model for real-time price prediction.
+* Continuous Model Monitoring: Regularly monitor and update the model with new data for sustained accuracy.
+* Incorporate External Data: Explore incorporating economic indicators and demographic data for enhanced predictions.
+* Evaluate Model Robustness: Conduct stress testing under different scenarios to ensure model performance.
+* Collaborate with Stakeholders: Gather feedback and refine the model in collaboration with the REIT and industry professionals.
+
+Implementing these next steps will further improve the accuracy and usefulness of the real estate price prediction model, enabling informed decisions and optimized property valuation processes.
