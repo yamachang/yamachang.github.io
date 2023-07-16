@@ -426,7 +426,7 @@ languages:
           url: /about/
           weight: 2
         - identifier: posts
-          name: Data Projects
+          name: Portfolio
           post: ''
           pre: ''
           title: ''
