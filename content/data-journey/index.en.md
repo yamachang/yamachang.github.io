@@ -3,7 +3,7 @@ date: "2023-07-26T11:04:49+08:00"
 description: My Data Journey
 draft: false
 images:
-- /workstation.jpg
+- /columbia_campus_2019.jpg
 lightgallery: true
 math:
   enable: true
@@ -26,7 +26,6 @@ Reflecting on my journey, it may seem unconventional, even serendipitous. From a
 <br/> 
 Indeed, my data journey is not a straight line—it is a rich tapestry woven from diverse experiences and a deep-seated passion for both the human and numerical worlds. I am excited about the future and all the data stories waiting to be discovered and told.
 <br/> 
-
 <br/> 
 I am currently looking for opportunities as a data scientist in tech industry. If you think I am a good fit to your team/company, please feel free to get in touch via <a href="mailto: yc3508@tc.columbia.edu"> :(far fa-envelope fa-fw):</a><a href="https://www.linkedin.com/in/yama-yw-chang/">:(fab fa-linkedin fa-fw): I look forward to hearing from you! </a>
 
