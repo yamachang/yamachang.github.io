@@ -425,7 +425,7 @@ languages:
           title: ''
           url: /about/
           weight: 2
-        - identifier: about
+        - identifier: data-journey
           name: My Data Journey
           post: ''
           pre: ''
