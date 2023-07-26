@@ -425,13 +425,20 @@ languages:
           title: ''
           url: /about/
           weight: 2
+        - identifier: about
+          name: My Data Journey
+          post: ''
+          pre: ''
+          title: ''
+          url: /data-journey/
+          weight: 3
         - identifier: posts
           name: Portfolio
           post: ''
           pre: ''
           title: ''
           url: /posts/
-          weight: 3
+          weight: 4
 #        - identifier: tags
 #          name: Tags
 #          post: ''
@@ -452,14 +459,14 @@ languages:
           pre: ''
           title: ''
           url: "Yama-Chang-DS-resume.pdf"
-          weight: 4
+          weight: 5
         - identifier: github
           name: ''
           post: ''
           pre: <i class='fab fa-github fa-fw' aria-hidden='true'></i>
           title: GitHub
           url: https://github.com/yamachang
-          weight: 5
+          weight: 6
     params:
       home:
         profile:
