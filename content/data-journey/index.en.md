@@ -7,10 +7,10 @@ images:
 lightgallery: true
 math:
   enable: true
-title: My Data Journey - From Clinical Psychology to Data Science
+title: My Journey - From Clinical Psychology to Data Science
 ---
 
-![Yama Chang](/images/columbia_campus_2019.jpg "Columbia campus in 2019")
+![Yama Chang](/images/columbia_campus_2019.jpg "Columbia campus in 2019. Photo credit: Yama Chang")
 
 My story isn't a conventional one. It does not follow the traditional path of computer science degrees and tech internships often associated with a career in data science. Instead, my journey started thousands of miles away and in an entirely different field—clinical psychology.
 <br/> 

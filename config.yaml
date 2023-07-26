@@ -93,7 +93,7 @@ params:
     mobileMode: auto
     title:
       logo: ''
-      name: Yama Chang
+      name: Portfolio
       post: '' 
       pre: "<i class='fas fa-user-astronaut fa-fw' aria-hidden='false'></i>"
       typeit: no
@@ -341,7 +341,7 @@ params:
     Youtubecustom: ''
     Youtubelegacy: ''
     Zhihu: ''
-  title: Portfolio
+  title: Yama Chang
   typeit:
     cursorChar: '|'
     cursorSpeed: 1000
@@ -475,7 +475,7 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: Hello! <br/> Please scroll down to see my selected projects in <br/> data science, machine learning and analytics.
+          subtitle: Hello! I'm Yama Chang. <br/> Please scroll down to see my selected projects in <br/> data science, machine learning and analytics.
           title: ''
           typeit: yes
         rss: 10
