@@ -341,7 +341,7 @@ params:
     Youtubecustom: ''
     Youtubelegacy: ''
     Zhihu: ''
-  title: Yama Chang
+  title: Portfolio
   typeit:
     cursorChar: '|'
     cursorSpeed: 1000
@@ -433,7 +433,7 @@ languages:
           url: /data-journey/
           weight: 3
         - identifier: posts
-          name: Portfolio
+          name: Projects
           post: ''
           pre: ''
           title: ''
