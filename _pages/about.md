@@ -34,3 +34,5 @@ Prior to my doctoral studies, I received an MA in Clinical Psychology from Colum
 | `Machine learning`                         | `Social media`                |
 | `Causal inference`                         | `Psychedelics`                            |
 | `Network science`                         | `Meditation`                            |
+
+<br/>

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:computer: Built my new personal website using Jekyll! 
+:computer: Moved my personal website from Hugo to Jekyll! 
