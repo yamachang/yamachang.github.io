@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student, Dartmouth College <!--a href='#'>Affiliations</a--> 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Quantitative Biomedical Science</p>
+    <p>Dartmouth Hitchcock Medical Center</p>
+    <p>701W Borwell, HB7922, Lebanon, NH 03766</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p>I am a PhD student in Quantitative Biomedical Sciences at [Dartmouth College](https://geiselmed.dartmouth.edu/qbs/), focusing on developing accessible and scalable interventions to improve mental health. I am currently rotating with Dr. Nicholas Jacobson at the [Artificial Intelligence and Mental Health: Innovation in Technology Guided Healthcare (AIM HIGH)](https://geiselmed.dartmouth.edu/jacobsonlab/) research lab within the [Center for Technology and Behavioral Health](https://www.c4tbh.org/).</p> 
+<p>My research leverages computational techniques, including machine learning, deep learning, and large language models, to analyze extensive behavioral and language data from sources such as mobile sensors, intensive longitudinal studies, and social media platforms.</p>  
+<p>Prior to my doctoral studies, I received an MA in Clinical Psychology from Columbia University and worked as a Data Scientist at the [Lab for Scalable Mental Health](https://www.schleiderlab.org/). My work explored how digital, evidence-based interventions can enhance access to mental health care for marginalized populations, including LGBTQ+ and BIPOC individuals.</p>  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
