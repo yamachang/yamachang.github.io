@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p style="font-size: 14px;">Quantitative Biomedical Science</p>
     <p style="font-size: 14px;">Dartmouth Hitchcock Medical Center</p>
-    <p style="font-size: 14px;">701W Borwell, HB7922, Lebanon, NH 03766</p>
+    <p style="font-size: 14px;">701W Borwell, HB792</p>
     <p style="font-size: 14px;">Lebanon, NH 03766</p>
 
 news: true # includes a list of news items
