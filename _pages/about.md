@@ -9,10 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size: 14px;">Quantitative Biomedical Science</p>
-    <p style="font-size: 14px;">Dartmouth Hitchcock Medical Center</p>
-    <p style="font-size: 14px;">701W Borwell, HB792</p>
-    <p style="font-size: 14px;">Lebanon, NH 03766</p>
+    <p style="font-size: 14px;">yama.chang.gr [at] dartmouth.edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
