@@ -16,7 +16,8 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
+sidesocial: true  # Credit - JB: includes social icons underneath profile picture
 ---
 
 I am a first-year PhD student in [Quantitative Biomedical Sciences at Dartmouth College](https://geiselmed.dartmouth.edu/qbs/), focusing on developing accessible and scalable interventions to improve mental health. I am currently rotating with [Dr. Nicholas Jacobson](https://www.nicholasjacobson.com/) at the [Artificial Intelligence and Mental Health: Innovation in Technology Guided Healthcare (AIM HIGH)](https://geiselmed.dartmouth.edu/jacobsonlab/) research lab within the [Center for Technology and Behavioral Health](https://www.c4tbh.org/).

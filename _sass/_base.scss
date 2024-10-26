@@ -434,6 +434,25 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+
+// Side Social (credit: JB)
+
+.sidesocial {
+  font-size: 2rem;
+  a {
+    i::before {
+      color: var(--global-text-color);
+      transition-property: all 0.2s ease-in-out;
+    }
+    &:hover {
+      i::before {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+}
+
+
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
