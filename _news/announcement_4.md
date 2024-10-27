@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: Published Published a co-first-authored paper on structural stigma and suicide among LGBTQ+ youth in *Stigma and Health*!
+:tada: Published a co-first-authored paper on structural stigma and suicide among LGBTQ+ youth in *Stigma and Health*!
