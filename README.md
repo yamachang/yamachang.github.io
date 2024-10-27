@@ -1,1 +1,1 @@
-This is my personal academic website, powered by [Jekyll](https://jekyllrb.com/) with an [al-folio](https://github.com/alshedivat/al-folio) theme plus some of my own  modifications. Hosted by [GitHub Pages](https://pages.github.com/).
+This is my personal academic website, powered by [Jekyll](https://jekyllrb.com/) with the [al-folio](https://github.com/alshedivat/al-folio) theme, plus some custom modifications for aesthetics. Hosted by [GitHub Pages](https://pages.github.com/).
