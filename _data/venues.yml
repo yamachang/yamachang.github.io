@@ -5,5 +5,11 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+"LGBTQ+":
+  color: "#ff9671"
+  
+"Interventions":
+  color: "#845ec2"
+  
+"Suicide":
+  color: "#ffc75f"
