@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:computer: Moved my personal website from Hugo to Jekyll! 
+:house: Moved and rebuilt my personal website from Hugo to Jekyll!
