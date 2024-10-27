@@ -314,7 +314,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Chang]
-  first_name: [Ya-Wen, Yama, Y., Y.W.]
+  first_name: [Ya-Wen, Ya-Wen Yama, Y., Y.W.]
 
   style: apa
   locale: en
