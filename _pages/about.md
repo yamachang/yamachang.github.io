@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p style="font-size: 14px;">yama.chang.gr [at] dartmouth.edu</p>
+    <p style="font-size: 14px;">Please feel free to reach out for research collaborations or just chat about research interests!</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
