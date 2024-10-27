@@ -25,6 +25,8 @@ I am passionate about `data science` and `mental health`. My interdisciplinary r
 
 Prior to my doctoral studies, I received an MA in Clinical Psychology from Columbia University and worked as a Data Scientist at the [Lab for Scalable Mental Health](https://www.schleiderlab.org/). My work explored how digital, single-session interventions can enhance access to mental health care for marginalized populations, including LGBTQ+ and BIPOC individuals. 
 
+In my free time, I enjoy meditation, yoga, coffee, kayaking, biking, and traveling! :lotus_position_woman::coffee::canoe::biking_woman::airplane:
+
 ## interests
 
 | **methods**                              | **topics**                        |
