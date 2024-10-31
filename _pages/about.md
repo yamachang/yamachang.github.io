@@ -6,8 +6,8 @@ subtitle: <strong> yama.chang.gr [at] dartmouth.edu </strong> <!--a href='#'>Aff
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.png
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p style="font-size: 14px;">PhD Student</p>
     <p style="font-size: 14px;">Center for Technology and Behavioral Health</p>
