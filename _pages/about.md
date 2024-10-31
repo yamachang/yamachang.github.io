@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong> yama.chang.gr [at] dartmouth.edu </strong> <!--a href='#'>Affiliations</a--> 
+subtitle: <!--strong> yama.chang.gr [at] dartmouth.edu </strong--> <!--a href='#'>Affiliations</a--> 
 
 profile:
-  align: left
+  align: right
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <div style="text-align: center;"> 
-      <p style="font-size: 14px;"QBS >PhD Student</p>
+      <p style="font-size: 14px;">QBS PhD Student</p>
       <p style="font-size: 14px;">Center for Technology and Behavioral Health</p>
       <p style="font-size: 14px;">Dartmouth College</p>
     </div>
@@ -26,8 +26,6 @@ I am a first-year PhD student in [Quantitative Biomedical Sciences (QBS) at Dart
 I am passionate about `data science` and `mental health`. My interdisciplinary research leverages computational techniques to analyze behavioral and language data from mobile sensors, intensive longitudinal studies, and social media platforms. Additionally, I am interested in the effects of psychedelics on mental wellness. Ultimately, I want to answer: **can people suffering from mental illness fully recover with psychedelic-assisted therapy, and how can we support people in living a sustainable, healthy life?**
 
 Prior to my doctoral studies, I received an MA in Clinical Psychology from Columbia University and worked as a Data Scientist at the [Lab for Scalable Mental Health](https://www.schleiderlab.org/). My work explored how digital, single-session interventions can enhance access to mental health care for marginalized populations, including LGBTQ+ and BIPOC individuals. 
-
-In my free time, I enjoy yoga, meditation, coffee, kayaking, biking, and traveling! :lotus_position_woman::coffee::canoe::biking_woman::airplane:
 
 ## interests
 
