@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:house: Moved and rebuilt my personal website from Hugo to Jekyll!
+:house: Officially matched and joined the AIM HIGH lab!
